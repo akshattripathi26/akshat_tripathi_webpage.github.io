@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshat Tripathi
 
-Engineering Management Graduate Student at **Rice University** operating at the intersection of **Data Science, AI Product Management, and Business Strategy**[cite: 1]. With experience in management consulting at KPMG, AI platform delivery, and enterprise go-to-market execution, I specialize in solving complex operational problems using data-driven insights[cite: 1].
+Engineering Management Graduate Student at **Rice University** operating at the intersection of **Data Science, AI Product Management, and Business Strategy**[cite: 1]. With experience in management consulting at KPMG, AI platform delivery, and enterprise go-to-market execution, I specialize in solving complex operatioasdanal problems using data-driven insights[cite: 1].
 
 ---
 
